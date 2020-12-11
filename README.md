@@ -9,4 +9,4 @@ NTPClient.bat
  - NTPClient <Server IP>
 
 NTPClientRun.bat
- - NTPClient 127.16.31.11 명령
+ - NTPClient 172.16.31.11 명령
